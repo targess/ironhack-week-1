@@ -1,0 +1,3 @@
+- Pawns can do diagonal eats
+- Pawns only goes front (diferent from white and black pieces)
+- Knight can´t go from a1 to h1
